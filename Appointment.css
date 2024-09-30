@@ -1,0 +1,26 @@
+.dropdown-content {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+.appointment-container
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center ;
+}
+
+.appointment-header h1
+{
+  color: #333;
+}
+
+.appointment-section form select
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
